@@ -1,8 +1,8 @@
-BU BOTu ben yatay giden piyasada kullanıyorum. Siz de nasıl bilirseniz öyle yaparsınız.
+
 Yatırım tavsiyesi değildir.
 # btc_bot tanıtıM.
 #btc_bot KURULUM.
-
+BU BOTu ben yatay giden piyasada kullanıyorum. Siz de nasıl bilirseniz öyle yaparsınız.
 #Bot Algoritması: 12 Saatlik Momentum & Zamanlı Çıkış
 
 1. Veri Hazırlığı (Referans Belirleme)
