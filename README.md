@@ -1,3 +1,5 @@
+BU BOTu ben yatay giden piyasada kullanıyorum. Siz de nasıl bilirseniz öyle yaparsınız.
+Yatırım tavsiyesi değildir.
 # btc_bot tanıtıM.
 #btc_bot KURULUM.
 
